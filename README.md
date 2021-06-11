@@ -14,7 +14,7 @@ or organization;
 4 - Business Advice in the management of service business contracts, and or management of industrial projects.
 
 I’m interested to contribute with knowledge of Engineering, Services and Operational Conditions of Productive Processes for Data Analysis Projects. 
-With this, I hppe to generate some information that can support knowledge to transform or create innovative solutions.
+So, I hope to generate some information that can support knowledge to transform or create innovative solutions.
 
 I’m curently learning Python and MS Power BI.
 
